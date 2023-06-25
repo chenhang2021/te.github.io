@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>科普 on 半步流年</title>
-    <link>http://localhost:1313/categories/%E7%A7%91%E6%99%AE/</link>
+    <link>https://hangge.org/categories/%E7%A7%91%E6%99%AE/</link>
     <description>Recent content in 科普 on 半步流年</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 10 May 2023 13:30:33 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E7%A7%91%E6%99%AE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 13:30:33 +0800</lastBuildDate><atom:link href="https://hangge.org/categories/%E7%A7%91%E6%99%AE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>解热镇痛药的用法</title>
-      <link>http://localhost:1313/post/jierezhentong/</link>
+      <link>https://hangge.org/post/jierezhentong/</link>
       <pubDate>Wed, 10 May 2023 13:30:33 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/jierezhentong/</guid>
+      <guid>https://hangge.org/post/jierezhentong/</guid>
       <description>开头 解热镇痛药是我们生活中必不可少的一类药品，常见的有阿司匹林、布洛芬、对乙酰氨基酚等，那么这些解热镇痛药有哪些用法和注意事项呢？ 阿司匹林 阿</description>
     </item>
     
